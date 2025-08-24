@@ -42,4 +42,3 @@ This project is licensed under the **LOL License**â€”use it, share it, but donâ€
 
 Happy record-breaking, you glorious weirdos!
 
-</xaiArtifact>
